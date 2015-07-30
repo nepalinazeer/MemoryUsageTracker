@@ -1,0 +1,8 @@
+C:\Users\npandey\Desktop\MemoryTracker\MemoryTracker\bin\Debug\MemoryTracker.exe
+C:\Users\npandey\Desktop\MemoryTracker\MemoryTracker\bin\Debug\MemoryTracker.pdb
+C:\Users\npandey\Desktop\MemoryTracker\MemoryTracker\obj\x86\Debug\MemoryTracker.Form1.resources
+C:\Users\npandey\Desktop\MemoryTracker\MemoryTracker\obj\x86\Debug\MemoryTracker.Properties.Resources.resources
+C:\Users\npandey\Desktop\MemoryTracker\MemoryTracker\obj\x86\Debug\MemoryTracker.csproj.GenerateResource.Cache
+C:\Users\npandey\Desktop\MemoryTracker\MemoryTracker\obj\x86\Debug\MemoryTracker.exe
+C:\Users\npandey\Desktop\MemoryTracker\MemoryTracker\obj\x86\Debug\MemoryTracker.pdb
+C:\Users\npandey\Desktop\MemoryTracker\MemoryTracker\obj\x86\Debug\MemoryTracker.csprojResolveAssemblyReference.cache
